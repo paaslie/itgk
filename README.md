@@ -1,1 +1,1 @@
-itgk øvinger for Petter Åslie
+# itgk øvinger for Petter Åslie
